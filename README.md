@@ -1,6 +1,4 @@
-# 100 Days of Code
-![100 Days of Code](./images/Gaus_Al_Munir_Tushar.png)
-
+# 100 Days of Code @GausAlMunirTushar
 ## Day 1: #100DaysOfCode
 Today I start a new Journey. I've learned different kinds of tools and techniques. 
 Today I Learned & Practices:
