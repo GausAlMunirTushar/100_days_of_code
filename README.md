@@ -10,3 +10,10 @@ Today I Learned & Practices:
 
 ---
 ## Day 2 of : #100DaysOfCode
+Today I learned JavaScript, TailwindCSS different kinds of tools and techniques. 
+Today's Practices:
+- Tailwind CSS 
+- Responsive Design Practices
+- NPM
+- Also, Facebook Login UI Practices Project
+![Day 2 Project](./images/day-2/day-2.png)
