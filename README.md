@@ -17,3 +17,12 @@ Today's Practices:
 - NPM
 - Also, Facebook Login UI Practices Project
 ![Day 2 Project](./images/day-2/day-2.png)
+
+---
+## Day 3 of : #100DaysOfCode
+Today I learned JavaScript, sass different kinds of tools and techniques. 
+Today's Practices:
+- CSS Flex
+- Responsive Design Practices
+- sass (variables, nesting, mixin)
+![Day 2 Project](./images/day-3/day-3.png)
