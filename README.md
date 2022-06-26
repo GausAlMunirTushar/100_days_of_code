@@ -26,3 +26,13 @@ Today's Practices:
 - Responsive Design Practices
 - sass (variables, nesting, mixin)
 ![Day 2 Project](./images/day-3/day-3.png)
+
+## Day 4 of : #100DaysOfCode
+Today I learned Sass, Nodejs, Tailwind CSS different kinds of tools and techniques. 
+Today's Practices:
+- Sass (Operators,Intepolation,)
+- Tailwind CSS Advanced Concepts
+- Tailwind CSS V3
+- Node js basic
+- Started Java Coding for Tomorrow's Midterm Exam
+![Day 2 Project](./images/day-4/day-4.png)
