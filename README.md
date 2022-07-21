@@ -36,3 +36,11 @@ Today's Practices:
 - Node js basic
 - Started Java Coding for Tomorrow's Midterm Exam
 ![Day 2 Project](./images/day-4/day-4.png)
+
+## Day 5 of : #100DaysOfCode
+Today I learned Bem Methodology, Nodejs, Tailwind CSS different kinds of tools. 
+Today's Practices:
+- Bem Methodology(Block Element Modifier)
+- Node js Modules
+- JavaScript Intermediate Practices
+- Node js basic
