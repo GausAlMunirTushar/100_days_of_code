@@ -44,3 +44,20 @@ Today's Practices:
 - Node js Modules
 - JavaScript Intermediate Practices
 - Node js basic
+## Day 6 of : #100DaysOfCode
+Today I learned Docker, Nodejs, and Bootstrap. 
+Today's Practices:
+- Dockerfile, 
+- Docker Image, Container 
+- Bootstrap Basic
+- Node js basic
+#javascript #Nodejs #Coding #Dockerfile
+
+## Day 7 of : #100DaysOfCode
+Today I learned Docker, JSON 
+Today's Practices:
+- Dockerfile, 
+- Docker Image, Container 
+- JSON Basic
+- JSON with JavaScript
+#javascript #Nodejs #Coding #Dockerfile
